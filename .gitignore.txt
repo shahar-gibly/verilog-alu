@@ -1,0 +1,8 @@
+# קבצי סימולציה שלא נעלה ל-GitHub
+sim.out
+waves.vcd
+
+# קבצי גיבוי כלליים
+*.vcd
+*.out
+*.log
